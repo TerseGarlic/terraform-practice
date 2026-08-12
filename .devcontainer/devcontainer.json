@@ -1,0 +1,10 @@
+{
+  "name": "Terraform Workspace",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "hashicorp.terraform"
+      ]
+    }
+  }
+}
